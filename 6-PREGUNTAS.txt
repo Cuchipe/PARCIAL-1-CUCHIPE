@@ -1,0 +1,25 @@
+Nombre: Kevin Alexander Cuchipe Sangucho
+NRC: 14120
+MATERIA: PROGRAMACION ORIENTADA A OBJETOS 
+-------------------------------------------------------------------------------------------------------------------
+1. ¿Qué es iterar?
+Iterar es el proceso de repetir un conjunto de instrucciones un determinado número de veces o hasta que se cumpla una condición específica. En programación, la iteración se logra mediante bucles, como el bucle "for" o "while", que permiten ejecutar un bloque de código varias veces.
+
+2. ¿Para qué sirve iter?
+Iter es una función en muchos lenguajes de programación que devuelve un objeto iterador, el cual puede ser utilizado para recorrer elementos en una estructura de datos iterable, como una lista o un diccionario.
+
+3. ¿Para qué sirve un arreglo?
+En el contexto de la programación orientada a objetos, un arreglo (o lista, dependiendo del lenguaje) es una estructura de datos que permite almacenar una colección ordenada de elementos del mismo tipo. Sirve para organizar y manipular conjuntos de datos de manera eficiente, proporcionando acceso rápido a elementos individuales mediante índices.
+
+4. ¿Para qué sirve un diccionario en POO?
+En programación orientada a objetos (POO), un diccionario (o mapa, dependiendo del lenguaje) es una estructura de datos que asocia claves con valores. Sirve para representar relaciones uno a uno entre objetos. Los diccionarios son útiles para almacenar y recuperar información de manera eficiente mediante el uso de claves, en lugar de índices numéricos.
+
+5. ¿Cuál es más rápido, un arreglo o un diccionario, y por qué?
+La velocidad de acceso a los elementos depende del contexto y de la operación que estás realizando. Los arreglos (listas) generalmente tienen un acceso más rápido si sabes el índice del elemento que deseas, ya que acceder a un elemento por índice tiene complejidad O(1). Los diccionarios, por otro lado, ofrecen acceso rápido cuando se utiliza una clave, también con complejidad O(1). Sin embargo, los diccionarios pueden ser más lentos en algunas operaciones, como iterar sobre todos los elementos, debido a la estructura de mapeo clave-valor.
+
+
+
+6. ¿Cuándo debería usar un diccionario y una lista en POO?
+
+Utiliza una lista cuando necesites una secuencia ordenada de elementos y el acceso por posición es esencial.
+Utiliza un diccionario cuando necesites asociar claves con valores y realizar búsquedas rápidas basadas en esas claves. Los diccionarios son útiles cuando la estructura de datos se basa en relaciones clave-valor.
