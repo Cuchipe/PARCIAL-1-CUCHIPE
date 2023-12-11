@@ -1,0 +1,10 @@
+Nombre: Kevin
+Edad: 14
+Estatura: 1.45
+Nacionalidad: Ecuador
+
+Nombre: Maria
+Edad: 18
+Estatura: 1.54
+Nacionalidad: Peru
+
