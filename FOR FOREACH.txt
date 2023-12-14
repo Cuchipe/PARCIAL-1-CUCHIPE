@@ -1,0 +1,25 @@
+ DIFERENCIA ENTRE FOR Y FOR EACH
+-----------------------------------
+
+--> For en Java:
+
+El bucle for en Java sigue una estructura específica con tres partes: inicialización, condición y expresión de incremento/decremento.
+Ejemplo:
+
+for (int i = 0; i < 5; i++) {
+    System.out.println(i);
+}
+
+
+--> foreach loop (o enhanced for loop) en Java:
+
+El bucle foreach en Java se introdujo en la versión 5 y se utiliza para iterar sobre elementos de una colección sin necesidad de conocer la longitud de la colección.
+Ejemplo con un array:
+
+int[] numeros = {1, 2, 3, 4, 5};
+for (int numero : numeros) {
+    System.out.println(numero);
+}
+
+En conclusion, la diferencia clave es que el bucle for tradicional se utiliza cuando se conoce el número de iteraciones y se necesita un mayor control sobre la lógica de iteración, mientras que el bucle foreach se utiliza cuando se quiere simplificar la iteración sobre elementos de una colección. Ambos son útiles en diferentes contextos y tienen sus propias aplicaciones específicas.
+
